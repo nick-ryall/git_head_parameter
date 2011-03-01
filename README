@@ -1,0 +1,3 @@
+A Symphony CMS extension to save the latest GIT revision number as a global parameter. 
+
+Copy the git_head_parameter folder into your 'extensions' directory and install the extension. A parameter named $git_head will now be available on your pages.
